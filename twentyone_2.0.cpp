@@ -1,19 +1,3 @@
-/*******************************************************************************
- * CS 103 Twenty-One (Blackjack) PA
- * Name: Param Patel
- * USC email: parampat@usc.edu
- * Comments (you want us to know):
- *
- *
- ******************************************************************************/
-
-//bug-enter integar while exiting
-
-//doubling down - where exactly in the game is option offered
-//do you see dealer's first card or the second card?
-//card counting
-//blakcjack expert table
-
 #include <iostream>
 #include <cstdlib>
 #include <cmath>
